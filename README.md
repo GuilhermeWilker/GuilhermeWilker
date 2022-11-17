@@ -31,4 +31,4 @@ const Gui = {
 
 ---
 
-⭐️ From [@GuilhermeWilker](https://github.com/GuilhermeWilker)
+⭐️ From [@GuilhermeWilker](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)

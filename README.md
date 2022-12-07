@@ -31,6 +31,6 @@ const Gui = {
 
 ---
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&hide=html&layout=compact=true&theme=Gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [@GuilhermeWilker](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)

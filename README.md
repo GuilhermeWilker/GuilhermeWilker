@@ -30,7 +30,6 @@ const Gui = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Aberto a novas experiências</b> </em>
 
 ---
-[![card](https://github-readme-stats.vercel.app/api?username=GuilhermeWilker&theme=Gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&hide=html&layout=compact=true&theme=Gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [@GuilhermeWilker](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)

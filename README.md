@@ -17,6 +17,7 @@ const Gui = {
   tecnologias: [Javascript, HTML, CSS, SQL],
   frameworks & ferramentas: [React, Vue3, Node, Styled-Components, Sass, Jest, MongoDB],
   arquitetura: ["clean code", "tratamento de erros", "design system pattern"],
+  bandasFavoritas: ["Incubus", "Smashing Pumpkins", "Pat Smear 💙"],
   
   livrosFavoritos: {
                         Romance: ["Solaris", "1984", "O morro dos ventos uivantes"],

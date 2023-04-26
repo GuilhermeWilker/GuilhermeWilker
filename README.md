@@ -14,8 +14,8 @@
 ```javascript
 const Gui = {
   pronomes: "ele" | "dele",
-  tecnologias: [Javascript, HTML, CSS, SQL],
-  frameworks & ferramentas: [React, Vue3, Node, Styled-Components, Sass, Jest, MongoDB],
+  tecnologias: [Javascript, HTML, CSS, SQL, PHP],
+  frameworks & ferramentas: [React, Vue3, Node, Styled-Components, Sass, Jest, MongoDB, MySQL],
   arquitetura: ["clean code", "tratamento de erros", "design system pattern"],
   bandasFavoritas: ["Incubus", "Smashing Pumpkins", "Pat Smear 💙"],
   

@@ -18,12 +18,6 @@ const Gui = {
   frameworks & ferramentas: [React, Vue3, Node, Styled-Components, Sass, Jest, MongoDB, MySQL],
   arquitetura: ["clean code", "tratamento de erros", "design system pattern"],
   bandasFavoritas: ["Incubus", "Smashing Pumpkins", "Pat Smear 💙"],
-  
-  livrosFavoritos: {
-                        Romance: ["Solaris", "1984", "O morro dos ventos uivantes"],
-                        Gótico: ["Frankenstein", "O fantasma da ópera"],
-                        Ficcção: "Laranja mecânica"
-                      },
  challenge: "Code without bugs"
 }
 ```

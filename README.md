@@ -14,7 +14,7 @@
 ```javascript
 const Gui = {
   pronomes: "ele" | "dele",
-  tecnologias: [Javascript, PHP, CSS & SQL ],
+  tecnologias: [Javascript, PHP, CSS, SQL ],
   frameworks & ferramentas: [Vue, Node, Laravel, CakePHP, Sass, Tailwind, MongoDB, MySQL],
   challenge: "Code without bugs"
 }

@@ -10,8 +10,23 @@
 ```javascript
 const Gui = {
   pronomes: "ele" | "dele",
-  tecnologias: [Javascript, PHP, CSS, SQL ],
-  frameworks & ferramentas: [Vue, React, Node, Laravel, Lumen, Sass, Tailwind, MongoDB, MySQL],
+  tecnologias: [
+      Javascript,
+      PHP,
+      CSS,
+      SQL
+  ],
+  frameworks & ferramentas: [
+      Vue,
+      React,
+      Node,
+      Laravel,
+      Lumen,
+      Sass,
+      Tailwind,
+      MongoDB,
+      MySQL
+  ],
   challenge: "Code without bugs"
 }
 ```

@@ -3,7 +3,7 @@
 </br> <!--Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>--> 
 </em></p>
 
-<p>Utilizo as seguintes tecnologias e ferramentas para construção das minhas aplicações: <br /> Javascript, PHP, SQL, React, Vue, Sass, <br/>Laravel, Livewire, Tailwind, MySQL e MongoDB</p>
+<p>Utilizo as seguintes tecnologias e ferramentas para construção das minhas aplicações: <br /> Javascript, PHP, SQL, React, Vue, Sass, <br/>Laravel, Livewire, Tailwind, <br/> MySQL e MongoDB</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)
 ---

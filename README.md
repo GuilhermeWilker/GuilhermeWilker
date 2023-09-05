@@ -7,5 +7,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)
 ---
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&hide=html&layout=compact&langs_count=16&theme=Gruvbox&include_all_commits)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&hide=html&layout=compact&langs_count=5&theme=Gruvbox&include_all_commits)
 

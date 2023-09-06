@@ -3,12 +3,9 @@
 <div>
   <img align="left" height="250px" src="https://t3.ftcdn.net/jpg/05/25/11/10/360_F_525111093_KkKmFKMCaxR5fCNMk0rreMFHaaW7q2OB.webp" alt="Profile picture">
 
-Sou um desenvolvedor Fullstack, atualmente com 21 anos de idade, empenhado em aprimorar minhas habilidades e conhecimento em programação. Estou dedicando meu tempo ao estudo de <strong>Análise e Desenvolvimento de Sistemas</strong>, com o objetivo de me tornar um engenheiro de software no futuro.
+Desenvolvedor Fullstack atualmente com 21 anos, empenhado em aprimorar minhas habilidades e conhecimento em programação. Estou dedicando meu tempo ao estudo de <strong>Análise e Desenvolvimento de Sistemas</strong>, com o objetivo de me tornar um engenheiro de software no futuro.
 
-Tenho um grande interesse pela programação funcional, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento.
-
-Atualmente estudando C#
-
+Tenho um grande interesse pela programação funcional, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento. Atualmente estudando C#
 </div>
 
 ---

@@ -5,7 +5,7 @@
 
 Desenvolvedor Fullstack atualmente com 21 anos, empenhado em aprimorar minhas habilidades e conhecimento em programação. Estou dedicando meu tempo ao estudo de <strong>Análise e Desenvolvimento de Sistemas</strong>, com o objetivo de me tornar um engenheiro de software no futuro.
 
-Tenho um grande interesse pela programação funcional, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento. Atualmente estudando C#
+Tenho um grande interesse pela programação, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento. Atualmente estudando C#
 </div>
 
 [![Meu portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://wilkerguilherme.netlify.app/)

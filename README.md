@@ -10,7 +10,7 @@ Tenho um grande interesse pela programação funcional, que considero uma forma 
 
 ---
 
-## Minhas stacks
+## Minhas stacks e social medias
 <table>
   <tr>
     <td align="center">
@@ -79,7 +79,6 @@ Tenho um grande interesse pela programação funcional, que considero uma forma 
 [![Meu portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://wilkerguilherme.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)
 
-## Linguagens que mais utilizo 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&layout=compact&hide=html,ejs,blade,hack)](https://github.com/anuraghazra/github-readme-stats)
 
 

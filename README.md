@@ -8,9 +8,11 @@ Desenvolvedor Fullstack atualmente com 21 anos, empenhado em aprimorar minhas ha
 Tenho um grande interesse pela programação funcional, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento. Atualmente estudando C#
 </div>
 
+[![Meu portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://wilkerguilherme.netlify.app/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)
 ---
 
-## Minhas stacks e social medias
+## Minhas stacks
 <table>
   <tr>
     <td align="center">
@@ -76,8 +78,7 @@ Tenho um grande interesse pela programação funcional, que considero uma forma 
   </tr>
 </table>
 
-[![Meu portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://wilkerguilherme.netlify.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWilker&layout=compact&hide=html,ejs,blade,hack)](https://github.com/anuraghazra/github-readme-stats)
 

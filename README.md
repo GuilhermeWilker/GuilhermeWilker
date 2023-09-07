@@ -30,12 +30,11 @@ Tenho um grande interesse pela programação, que considero uma forma elegante e
       <br />
       C#
     </td>
-      <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="48px" height="48px" />
-      <br />
-      Sass
-    </td>
- 
+    <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" width="48px" height="48px" />
+        <br />
+        Typescript
+      </td>
   </tr>
   <tr>
     <td align="center">
@@ -58,6 +57,7 @@ Tenho um grande interesse pela programação, que considero uma forma elegante e
       <br />
       Laravel
     </td>
+    
   </tr>
   <tr>
     <td align="center">
@@ -74,6 +74,11 @@ Tenho um grande interesse pela programação, que considero uma forma elegante e
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48px" height="48px" />
       <br />
       MongoDB
+    </td>
+       <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="48px" height="48px" />
+      <br />
+      Sass
     </td>
   </tr>
 </table>

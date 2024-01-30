@@ -1,11 +1,7 @@
 # Olá, me chamo Guilherme! <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="50">
 
 <div>
-  <img align="left" height="250px" src="https://t3.ftcdn.net/jpg/05/25/11/10/360_F_525111093_KkKmFKMCaxR5fCNMk0rreMFHaaW7q2OB.webp" alt="Profile picture">
-
-Desenvolvedor Fullstack atualmente com 21 anos, empenhado em aprimorar minhas habilidades e conhecimento em programação. Estou dedicando meu tempo ao estudo de <strong>Análise e Desenvolvimento de Sistemas</strong>, com o objetivo de me tornar um engenheiro de software no futuro.
-
-Tenho um grande interesse pela programação, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento. Atualmente estudando C#.
+Desenvolvedor Fullstack empenhado em aprimorar minhas habilidades e conhecimento em programação. Estou dedicando meu tempo ao estudo de <strong>Análise e Desenvolvimento de Sistemas</strong>, com o objetivo de me tornar um engenheiro de software no futuro. Tenho um grande interesse pela programação, que considero uma forma elegante e poderosa de resolver problemas complexos. Sempre estou em busca de novos desafios e oportunidades para expandir meu conhecimento. 
 </div>
 
 [![Meu portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://wilkerguilherme.netlify.app/)

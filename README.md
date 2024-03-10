@@ -1,8 +1,6 @@
 [![Meu portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://wilkerguilherme.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-wilker-3a8294189/)
----
 
-## Minhas stacks
 <table>
   <tr>
     <td align="center">

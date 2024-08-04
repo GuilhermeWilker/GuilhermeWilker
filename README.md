@@ -14,11 +14,6 @@
       PHP
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40px" style="object-fit:contain;" />
-      <br />
-      C#
-    </td>
-    <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" width="48px" height="48px" />
         <br />
         Typescript

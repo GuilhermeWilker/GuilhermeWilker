@@ -14,7 +14,7 @@
       PHP
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" width="48px" height="48px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/500px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Typescript" width="48px" height="48px" />
       <br />
       TypeScript
     </td>
@@ -36,7 +36,7 @@
       Node.js
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="48px" height="48px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/3840px-Laravel.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="48px" height="48px" />
       <br />
       Laravel
     </td>
